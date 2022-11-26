@@ -1,4 +1,4 @@
-更新时间 2022-11-25 08:45
+更新时间 2022-11-26 09:45
 
 每日更新，感谢你的star！
 
@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://clashnode.com/wp-content/uploads/2022/11/20221125.txt
+https://clashnode.com/wp-content/uploads/2022/11/20221126.txt
 
 ### clash
 
-https://clashnode.com/wp-content/uploads/2022/11/20221125.yaml
+https://clashnode.com/wp-content/uploads/2022/11/20221126.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
