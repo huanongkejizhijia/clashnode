@@ -1,4 +1,4 @@
-更新时间 2023-01-03 19:42
+更新时间 2023-01-04 06:42
 
 每日更新，感谢你的star！
 
@@ -16,11 +16,11 @@
 
 ### v2ray
 
-https://clashnode.com/wp-content/uploads/2023/01/20230103.txt
+https://clashnode.com/wp-content/uploads/2023/01/20230104.txt
 
 ### clash
 
-https://clashnode.com/wp-content/uploads/2023/01/20230103.yaml
+https://clashnode.com/wp-content/uploads/2023/01/20230104.yaml
 
 每24小时更新一次，中间有可能偶不稳定，要求较高可考虑下方付费vpn，稳定性佳
 
@@ -28,4 +28,4 @@ https://clashnode.com/wp-content/uploads/2023/01/20230103.yaml
 
 工薪阶层：每月9.9元钱，开发妥妥的
 
-### [易云](https://yiyun.io/#/register?code=zW1ijHlm)
+### [轻云](https://qingyun.io/#/dashboard)
