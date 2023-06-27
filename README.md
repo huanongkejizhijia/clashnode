@@ -27,4 +27,4 @@ https://clashnode.com/wp-content/uploads/2023/06/20230628.yaml
 
 工薪阶层：每月9.9元钱，开发妥妥的
 
-### [轻云](https://qingyun.today/#/dashboard)
+### [轻云](https://s1.qingyun.today/#/dashboard)
